@@ -9,7 +9,7 @@ https://github.com/cthorey/
 https://github.com/cthorey/
 https://github.com/cthorey/
 """
-
+import numpy as np
 def batchnorm_forward(x, gamma, beta, bn_param):
     """
     Forward pass for batch normalization.
